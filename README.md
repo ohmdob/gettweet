@@ -7,7 +7,6 @@ lightweight tweet objects
 
 # Demo
 [tweetId 1519495982723084290](https://twitter.com/elonmusk/status/1519495982723084290)
-![image](docs/twitter.com_elonmusk_status_1519495982723084290.jpg)
 [demo](https://files.sweetlandhub.com/demo/gettweet.php?tid=1519495982723084290)
 
 # Result
