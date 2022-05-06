@@ -3,7 +3,7 @@ lightweight tweet objects
 
 # Problem
 1. web driver scraping is slow (force login any time)
-2. tweeter api is huge and hard
+2. twitter api is huge and hard
 
 # Demo
 [tweetId 1519495982723084290](https://twitter.com/elonmusk/status/1519495982723084290)
